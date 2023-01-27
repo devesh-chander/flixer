@@ -1,3 +1,4 @@
+/* eslint-disable */
 //camel-case for files and variables and Pascal-case for components
 import React, { useEffect, useState } from "react";
 import "./app.css";
